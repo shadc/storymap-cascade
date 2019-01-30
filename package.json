@@ -37,5 +37,8 @@
     "grunt-regex-replace": "^0.2.9",
     "less": "^1.0.0",
     "load-grunt-tasks": "^3.4.1"
+  },
+  "dependencies": {
+    "npm": "^6.7.0"
   }
 }

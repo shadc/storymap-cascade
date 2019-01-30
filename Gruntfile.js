@@ -462,7 +462,7 @@
       connect: {
         server: {
           options: {
-            port: 8080,
+            port: 8081,
             keepalive: true,
             hostname: '*'
           }
@@ -555,7 +555,7 @@
     });
 
     /*
-     * Create a web server on port 8080
+     * Create a web server on port 8081
      * Run 'start grunt server' or 'grunt server &'
      */
     grunt.registerTask('server', ['connect']);
